@@ -1,0 +1,4 @@
+Complete week 1 project|Have to built the todo-list app and push it on the git |2025-06-13|True
+DAA assignment |Complete assignment 1 of DAA|2025-06-20|True
+Start Week 2|Complete week 2 assignment and practice git|2025-06-20|False
+Learn Python|Complete Python crash course from freeCodeCamp.org|2025-07-08|False
