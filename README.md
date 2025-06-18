@@ -39,3 +39,7 @@ todo-list-app/
 ```bash
 python todo_manager.py
 
+## Acknowledgements
+
+Built as part of the Code Core Global Python Developer Internship
+
